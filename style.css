@@ -1,0 +1,20 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.a{
+background-color: royalblue;
+}
+.b{
+    display: flex;
+    background-color: skyblue;
+    justify-content: space-evenly;
+}
+.c{
+    display: flex;
+    justify-content: flex-end;
+}
